@@ -1,5 +1,7 @@
+
 📊 Sales Overview Analytics Dashboard — Power BI
 -------------------------------------------------------------------------------------------
+
 
 An end-to-end Sales Analytics Dashboard built using Power BI, analyzing customer behavior, product performance, regional trends, and profitability across segments. This project demonstrates advanced data modeling, DAX calculations, interactive slicers, KPI design, and business storytelling aligned with real-world retail and sales analytics use cases.
 -------------------------------------------------------------------------------------------
