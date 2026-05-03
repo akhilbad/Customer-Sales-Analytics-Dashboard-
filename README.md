@@ -78,27 +78,27 @@ This ensures the project is ethical, legal, and safe to showcase publicly.
 
 🎯 Key Skills Demonstrated
 
-✅ Business-oriented dashboard design with clear visual hierarchy
-✅ KPI card design for executive-level reporting
-✅ Sub-category profit vs loss analysis
-✅ Multi-level segmentation (Region, Segment, Category, Ship Mode)
-✅ Waterfall chart for category contribution storytelling
-✅ Dynamic slicers for self-service analytics
-✅ Clean, professional layout suitable for stakeholder presentations
+- ✅ Business-oriented dashboard design with clear visual hierarchy
+- ✅ KPI card design for executive-level reporting
+- ✅ Sub-category profit vs loss analysis
+- ✅ Multi-level segmentation (Region, Segment, Category, Ship Mode)
+- ✅ Waterfall chart for category contribution storytelling
+- ✅ Dynamic slicers for self-service analytics
+- ✅ Clean, professional layout suitable for stakeholder presentations
 
 
 📌 Use Case
 This dashboard is suitable for:
 
-📁 Data Analyst portfolios
-🛒 Retail & E-commerce Analytics case studies
-📊 Sales performance review presentations
-💼 Power BI interview discussions and demonstrations
-🎓 Academic projects involving business intelligence
-< br / >
+- 📁 Data Analyst portfolios
+- 🛒 Retail & E-commerce Analytics case studies
+- 📊 Sales performance review presentations
+- 💼 Power BI interview discussions and demonstrations
+- 🎓 Academic projects involving business intelligence
+
 🔗 Author
 Akhilesh Badiger
 Aspiring Data Analyst | Business Intelligence & Sales Analytics Enthusiast
-< br / >
+
 
 "Data is only as powerful as the story it tells."
