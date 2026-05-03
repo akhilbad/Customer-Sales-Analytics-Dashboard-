@@ -6,11 +6,11 @@ An end-to-end Sales Analytics Dashboard built using Power BI, analyzing customer
 🚀 Project Overview
 The dashboard provides a 360° analytical view of sales performance, enabling business stakeholders to:
 
-Track overall revenue, profit, quantity, and customer metrics at a glance
-Analyze product sub-category performance and identify profit vs loss areas
-Understand regional and segment-wise sales distribution
-Evaluate shipping mode efficiency and its impact on sales
-Explore category-level trends using a dynamic waterfall chart
+- Track overall revenue, profit, quantity, and customer metrics at a glance
+- Analyze product sub-category performance and identify profit vs loss areas
+- Understand regional and segment-wise sales distribution
+- Evaluate shipping mode efficiency and its impact on sales
+- Explore category-level trends using a dynamic waterfall chart
 
 📸 Dashboard Preview
 <img width="1298" height="731" alt="Screenshot 2026-05-03 193719" src="https://github.com/user-attachments/assets/d862ad1d-e9f6-4d5d-8e3b-d3253f0593d1" />
@@ -95,10 +95,10 @@ This dashboard is suitable for:
 - 📊 Sales performance review presentations
 - 💼 Power BI interview discussions and demonstrations
 - 🎓 Academic projects involving business intelligence
-
+------------------------------------------------------------------------------------------
 🔗 Author
 Akhilesh Badiger
 Aspiring Data Analyst | Business Intelligence & Sales Analytics Enthusiast
-
+-------------------------------------------------------------------------------------------
 
 "Data is only as powerful as the story it tells."
